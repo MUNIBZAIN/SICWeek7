@@ -1,0 +1,18 @@
+a. mkdir munib
+b. cd munib
+c. mkdir sekolah
+d. mkdir kerja
+e. cd sekolah
+f. touch ijazah.txt
+g. nano ijazah.txt
+h. cat ijazah.txt
+i. touch portfolio.txt
+j. nano portfolio.txt
+k. cd .. 
+l. cd kerja
+m. touch cv.txt
+n. nano cv.txt
+o. cat cv.txt
+p. cd ..
+q. cd sekolah
+r. mv portfolio.txt ../kerja
